@@ -1,3 +1,5 @@
+#WAP to accept a sentence from user and reverse every word from the sentence
+
 def SentenceConversion(sentence):
     l1 = sentence.split(' ')
     for i in range(0,len(l1)):   
